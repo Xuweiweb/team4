@@ -1,0 +1,64 @@
+.home {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.home header {
+  width: 100%;
+  height: 64px;
+  background: #001529;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home header p {
+  color: #ffffff;
+  margin-left: 80px;
+}
+
+.home header .right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home header .right .loginBtn {
+  margin: 0 40px 0 20px;
+  background: #ffffff;
+  color: red;
+}
+
+.home .count {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home .row {
+  height: 100%;
+}
+
+.home .row .col {
+  width: 200px;
+  height: 100%;
+}
+
+.home .row .colors {
+  width: 200px;
+  height: 100%;
+  background: #001529;
+}
+
+.home .row .colors .bg {
+  background: #001529;
+}
+
+.con {
+  flex: 1;
+  height: 100%;
+  background: red;
+}

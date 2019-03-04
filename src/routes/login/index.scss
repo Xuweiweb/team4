@@ -1,0 +1,21 @@
+@charset "utf-8";
+.login{
+    width: 700px;
+    height: 400px;
+    margin: 200px auto;
+
+    h1 {
+        text-align: center;
+        text-indent: 2em
+    }
+    .loginBtn {
+        width: 100%;
+    }
+    .check {
+        margin-left: 100px;
+        margin-bottom: 20px;
+    }
+    .forget{
+        margin-left: 460px;
+    }
+}

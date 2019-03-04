@@ -1,0 +1,23 @@
+.login {
+  width: 700px;
+  height: 400px;
+  margin: 200px auto;
+}
+
+.login h1 {
+  text-align: center;
+  text-indent: 2em;
+}
+
+.login .loginBtn {
+  width: 100%;
+}
+
+.login .check {
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+
+.login .forget {
+  margin-left: 460px;
+}
